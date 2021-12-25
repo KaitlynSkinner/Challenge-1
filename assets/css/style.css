@@ -125,8 +125,8 @@ p {
 }
 
 .benefits h3 {
-    margin-bottom: 10px;
     text-align: center;
+    margin: 10px 20px;
 }
 
 .benefits img {
