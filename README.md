@@ -44,6 +44,31 @@ The following benefits are available:
 <h2>HTML, Git, and CSS Code Refractor Challenge 1</h2>
 </br>
 
+<strong>Task:</strong> 
+<ol>
+  <li> To refactor an existing webpage </li>
+    <ul>
+    <li> Clean up the CSS to make it more efficient</li>
+    <li> Consolidate CSS selectors and properties </li>
+    <li> Organize the semantic structure of CSS and HTML elements </li>
+    <li> HTML and CSS fall in Sequential Order </li>
+    <li> Include comments before each element or section of the page </li>
+    </ul>
+  <li> To make it accessible </li>
+    <ul>
+    <li> Ensure all links are functioning correctly </li>
+    <li> Accessible alt attributes </li>
+    <li> Responsive Web Design </li>
+    </ul>
+  <li> To improve SEO </li>
+    <ul>
+    <li> Concise Descriptive Title </li>
+    <li> Accessible alt attributes, and when to leave them blank </li>
+    </ul>
+</ol>
+
+</br>
+
 ![Horiseon Website - Deployed URL](https://kaitlynskinner.github.io/Challenge-1/?raw=true)
 </br>
 ![Git Hub - Repository URL](https://github.com/KaitlynSkinner/Challenge-1.git?raw=true)
