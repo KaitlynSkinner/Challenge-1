@@ -11,9 +11,9 @@ Search results can make a core part of a companies reputation! We will manage th
 Along with the added bonus of tracking your companies progress, success, and engagement of ad campaigns! 
 Please view main features of our website as well as added benefits below.
 </br>
-> "You cannot buy engagement. You have to build engagement" -Tara Nicholle Nelson
 
-</br>
+  > "You cannot buy engagement. You have to build engagement" -Tara Nicholle Nelson
+
 </br>
 
 <strong>Features</strong>
