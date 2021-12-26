@@ -51,6 +51,6 @@ The following benefits are available:
 </br>
 
 <strong>Page Image</strong>
-![Horiseon Page Image](https://github.com/KaitlynSkinner/Challenge-1/blob/cce8402b42e74a18286104fac9a6dac030ae04b4/assets/images/Horiseon_Image_Challenge-1_index.html%20(1).png?raw=true)
+![Horiseon Page Image](https://github.com/KaitlynSkinner/Challenge-1/blob/ee20d29ce17a03c091a983096b338bb0b7bd7d14/assets/images/Horiseon-Website-Image-Challenge-1-i.png?raw=true)
 </br>
 </br>
